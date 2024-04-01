@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Oq9ofXyqltl2o08h9Zzr93woREDKH/XQ6OC+MCripiU=",
+  "Source": "WebChat",
+  "BasePath": "_content/WebChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebChat\\wwwroot",
+      "Source": "WebChat",
+      "ContentRoot": "D:\\WebChat\\wwwroot\\",
+      "BasePath": "_content/WebChat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\WebChat\\wwwroot\\css\\main.9b5c3dfda103236d7d1f.css",
+      "SourceId": "WebChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebChat\\wwwroot\\",
+      "BasePath": "_content/WebChat",
+      "RelativePath": "css/main.9b5c3dfda103236d7d1f.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.9b5c3dfda103236d7d1f.css"
+    },
+    {
+      "Identity": "D:\\WebChat\\wwwroot\\index.html",
+      "SourceId": "WebChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebChat\\wwwroot\\",
+      "BasePath": "_content/WebChat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\WebChat\\wwwroot\\main.9b5c3dfda103236d7d1f.js",
+      "SourceId": "WebChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebChat\\wwwroot\\",
+      "BasePath": "_content/WebChat",
+      "RelativePath": "main.9b5c3dfda103236d7d1f.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.9b5c3dfda103236d7d1f.js"
+    }
+  ]
+}

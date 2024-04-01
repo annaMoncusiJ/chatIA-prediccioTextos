@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/8OAL72kiZK6CA7S1LIbLySCH24g54a0pFt/GeqOsTNBZVKvJVr1wIgkANvIbIkxtirP30NZNfSDe/jrfcXhA==",
+  "success": true,
+  "projectFilePath": "D:\\WebChat\\WebChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francesc\\.nuget\\packages\\microsoft.typescript.msbuild\\5.4.2\\microsoft.typescript.msbuild.5.4.2.nupkg.sha512",
+    "C:\\Users\\Francesc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WebChat\\wwwroot\\css\\main.9b5c3dfda103236d7d1f.css",
+      "PackagePath": "staticwebassets\\css\\main.9b5c3dfda103236d7d1f.css"
+    },
+    {
+      "Id": "D:\\WebChat\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\WebChat\\wwwroot\\main.9b5c3dfda103236d7d1f.js",
+      "PackagePath": "staticwebassets\\main.9b5c3dfda103236d7d1f.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebChat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebChat.props",
+      "PackagePath": "build\\WebChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebChat.props",
+      "PackagePath": "buildMultiTargeting\\WebChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebChat.props",
+      "PackagePath": "buildTransitive\\WebChat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
